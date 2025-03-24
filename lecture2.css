@@ -1,0 +1,116 @@
+.austria{
+    border: 1px solid black;
+    width: 150px;
+    height: 90px;
+    border: none;
+     position: absolute;
+     left: 350px;
+     top: 350px;
+    
+}
+
+.b1 , .b2 , .b3{
+    border: 1px solid black;
+    width: 150px;
+    height: 29px;
+}
+
+
+.b1{
+    background-color: red;
+    border: none;
+
+}
+
+.b2{
+    background-color: white;
+    border: none;
+
+}
+
+
+.b3{
+    background-color: green;
+    border: none;
+
+}
+
+.Latvia{
+    border: 1px solid black;
+    width: 150px;
+    height: 90px;
+    border: none;
+     position: absolute;
+     left: 350px;
+     top: 350px;
+    
+}
+
+.b4 , .b5 , .b6{
+    border: 1px solid black;
+    width: 150px;
+    height: 29px;
+}
+
+
+
+
+
+.b4{
+    background-color: brown;
+    border: none;
+}
+
+
+.b5{
+    background-color: white;
+    height: 20px;
+    border: none;
+
+}
+
+.b6{
+    background-color: brown;
+    border: none;
+
+}
+
+
+
+
+
+.b7 , .b8 , .b9, .b10{
+    border: 1px solid black;
+    width: 150px;
+    height: 29px;
+}
+
+
+
+
+
+.b7{
+    background-color: brown;
+    border: none;
+}
+
+
+.b8{
+    background-color: blue;
+    height: 20px;
+    border: none;
+
+}
+
+.b9{
+    background-color: yellow;
+    border: none;
+
+}
+
+
+.b10{
+    background-color:green;
+    border: none;
+
+}
